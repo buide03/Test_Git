@@ -8,6 +8,6 @@ int main(){
     std::cout<<"Nhap tuoi";
     std::cin>>userAge;
 
-    std::cout<<"userName:"<<userName;
+    std::cout<<"userName:"<<userName<<std::endl;
 
 }
