@@ -7,6 +7,6 @@ int main(){
 
     std::cin>>userAge;
 
-    std::cout<<"userName:"<<userName;
+    std::cout<<"userName:"<<userName<<std::endl;
 
 }
